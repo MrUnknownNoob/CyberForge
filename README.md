@@ -65,8 +65,8 @@ Local CTF AI Agent combines **OpenCode**, **Ollama**, and lightweight local codi
 ## 🚀 Quick Start
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/local-ctf-ai-agent.git
-cd local-ctf-ai-agent
+git clone https://github.com/MrUnknownNoob/CyberForge
+cd CyberForge
 chmod +x install_ctf_agent.sh
 bash -n install_ctf_agent.sh
 ./install_ctf_agent.sh
