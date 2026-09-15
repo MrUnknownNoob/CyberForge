@@ -398,21 +398,25 @@ git commit -m "Add new feature"
 git push origin feature/my-feature
 ```
 
-## 📜 License
+### 👨‍💻 Club Leadership
 
-This project is released under the MIT License.
+| **Role** | **Name** |
+|----------|----------|
+| **Vice President (Technical)** | **Zaber Mahmud** |
+| **Title** | Cyber Security Researcher |
+| **Organization** | **EWU Cybersecurity Club** |
 
-See `LICENSE` for details.
+This project is dedicated to the juniors of **EWU Cybersecurity Club**, with the goal of helping the next generation of cybersecurity learners explore **CTFs, ethical hacking, Linux, and security research** through a practical and offline AI-powered environment.
 
-## ⭐ Support
+---
 
-If this project helps your local cybersecurity AI workflow:
+### ⭐ Star this repo if you find it helpful!
 
-- ⭐ Star the repository
-- 🐛 Report bugs
-- 💡 Suggest features
-- 🤝 Contribute improvements
-- 📢 Share the project
+If you find this project useful, please consider giving it a **⭐ Star** and **🍴 Fork** it. Your support motivates us to keep improving and building more resources for the cybersecurity community.
+
+> *From zero to cyber hero — one module at a time.*
+
+**Made with 🔐 for the next generation of cybersecurity learners — EWU Cybersecurity Club**
 
 ---
 
