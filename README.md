@@ -314,6 +314,11 @@ If OpenCode is not found:
 
 ```bash
 export PATH="$HOME/.opencode/bin:$HOME/.local/bin:$HOME/bin:$PATH"
+
+echo 'export PATH="$HOME/.opencode/bin:$HOME/.local/bin:$HOME/bin:$PATH"' >> ~/.zshrc && source ~/.zshrc
+
+grep -qxF 'export PATH="$HOME/.opencode/bin:$HOME/.local/bin:$HOME/bin:$PATH"' ~/.zshrc || echo 'export
+PATH="$HOME/.opencode/bin:$HOME/.local/bin:$HOME/bin:$PATH"' >> ~/.zshrc
 ```
 
 ## 🩺 Troubleshooting
